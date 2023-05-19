@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    border: 5px solid palevioletred;
+    height: 95vh;
+    background-color: black;
+}
+.child{
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 220px;
+    background-color: brown;
+    color: white;
+    font-size: xx-large;
+}
+#c1{
+    margin-left: 44%;
+}
